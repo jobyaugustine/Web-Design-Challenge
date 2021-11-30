@@ -18,10 +18,10 @@ The website must consist of 7 pages total, including:
   
 * The data is converted from csv to HTML using pandas. Used the `to_html` method for conversion to html. [JupyterNotebookFile](Convert_CSVtoHTML_Table.ipynb)
 
-Finally, the website must be deployed to GitHub pages.
+* Table for data is created with the Bootstrap resonsive table component.
 
-When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
+The website is deployed to GitHub pages.
 
-Ensure your repository has regular commits and a thorough README.md file
+
 
 
