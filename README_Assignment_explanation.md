@@ -20,7 +20,8 @@ The website must consist of 7 pages total, including:
 
 * Table for data is created with the Bootstrap resonsive table component.
 
-The website is deployed to GitHub pages.
+
+The website is deployed to GitHub pages,  https://jobyaugustine.github.io/WebDesign/
 
 
 
